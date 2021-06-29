@@ -1,1 +1,3 @@
-alert ("Hello!");
+function CheckJS(){
+   alert("This is JavaScript");
+}
